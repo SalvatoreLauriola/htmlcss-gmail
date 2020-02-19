@@ -42,8 +42,8 @@ body {
 
 .email-row {
   background-color: #fff;
-  padding: 30px;
-  border: 10px solid #233;
+  padding: 10px;
+  border: 2px solid #233;
 }
 
 .read {
@@ -65,9 +65,14 @@ body {
 #texta {
   margin: 6;
   font-family: 'Tomorrow', sans-serif;
+  text
 
 }
 
 #troll {
+  text-align: center;
+}
+
+#search {
   text-align: center;
 }
